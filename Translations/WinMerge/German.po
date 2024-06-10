@@ -286,7 +286,7 @@ msgid "&Click"
 msgstr ""
 
 msgid "&Input"
-msgstr ""
+msgstr "&Eingabe"
 
 msgid "&GoBack/Forward"
 msgstr "&Zurück/Vor"
@@ -1024,10 +1024,10 @@ msgid "&Transform with editor script..."
 msgstr "Mit Editor-Skript trans&formieren..."
 
 msgid "Scripts for &copying"
-msgstr ""
+msgstr "&Kopierskripte"
 
 msgid "Select &editor script..."
-msgstr ""
+msgstr "Auswahl &Editor Skript..."
 
 #, c-format
 msgid "Sp&lit"
@@ -1038,7 +1038,7 @@ msgid "Comp&are"
 msgstr "Ver&gleichen"
 
 msgid "Compare in new &window"
-msgstr "In neuem Fenster vergleichen"
+msgstr "In neuem Fenster &vergleichen"
 
 msgid "Compare Non-hor&izontally..."
 msgstr "Nicht hor&izontal vergleichen..."
@@ -1328,34 +1328,34 @@ msgid "&Load Project..."
 msgstr "Projekt &laden..."
 
 msgid "${*} - All arguments"
-msgstr ""
+msgstr "${*} - Alle Parameter"
 
 msgid "${1} - The first argument"
-msgstr ""
+msgstr "${1} - Erster Parameter"
 
 msgid "${2} - The second argument"
-msgstr ""
+msgstr "${2} - Zweiter Parameter"
 
 msgid "${3} - The third argument"
-msgstr ""
+msgstr "${3} - Dritter Parameter"
 
 msgid "${4} - The fourth argument"
-msgstr ""
+msgstr "${4} - Vierter Parameter"
 
 msgid "${5} - The fifth argument"
-msgstr ""
+msgstr "${5} - Fünfter Parameter"
 
 msgid "${6} - The sixth argument"
-msgstr ""
+msgstr "${6} - Sechster Parameter"
 
 msgid "${7} - The seventh argument"
-msgstr ""
+msgstr "${7} - Siebter Parameter"
 
 msgid "${8} - The eighth argument"
-msgstr ""
+msgstr "${8} - Achter Parameter"
 
 msgid "${9} - The ninth argument"
-msgstr ""
+msgstr "${9} - Neunter Parameter"
 
 msgid "${SRC_FILE} - Source file"
 msgstr "${SRC_FILE} - Quelldatei"
@@ -1379,19 +1379,19 @@ msgid "${DST_FOLDER} - Destination folder"
 msgstr "${DST_FOLDER} - Zielordner"
 
 msgid "${DST_URL} - Destination URL"
-msgstr ""
+msgstr "${DST_URL} - Ziel-URL"
 
 msgid "${DST_URL_PROTOCOL} - Destination URL protocol"
-msgstr ""
+msgstr "${DST_URL_PROTOCOL} - Ziel-URL Protokoll"
 
 msgid "${DST_URL_SUFFIX} - Destination URL suffix"
-msgstr ""
+msgstr "${DST_URL_SUFFIX} - Ziel-URL Suffix"
 
 msgid "${WINMERGE_HOME} - WinMerge home directory"
-msgstr ""
+msgstr "${WINMERGE_HOME} - WinMerge Home Verzeichnis"
 
 msgid "${SCRIPT_FILE} - Script file"
-msgstr ""
+msgstr "${SCRIPT_FILE} - Skript Datei"
 
 msgid "Add &unpacker plugin..."
 msgstr ""
@@ -1879,7 +1879,7 @@ msgid "&Plugin Pipeline:"
 msgstr "&Plugin-Pipeline:"
 
 msgid "&Alias..."
-msgstr ""
+msgstr "&Alias..."
 
 #, c-format
 msgid "Stop"
@@ -2620,13 +2620,13 @@ msgid "&Hex View"
 msgstr "&Hex-Ansicht"
 
 msgid "Edit Plugin"
-msgstr ""
+msgstr "Editor Plug-in"
 
 msgid "Plugin &type:"
-msgstr ""
+msgstr "Plug-in &Typ:"
 
 msgid "&Category:"
-msgstr ""
+msgstr "&Kategorie"
 
 msgid "&Menu caption:"
 msgstr ""
@@ -4610,7 +4610,7 @@ msgid "Diff hunk"
 msgstr ""
 
 msgid "Inline diff"
-msgstr "Zeilenuntersciede"
+msgstr "Zeilenunterschiede"
 
 msgid "Line"
 msgstr "Zeile"
@@ -4754,7 +4754,7 @@ msgid "Disassemble Native Code"
 msgstr "Nativen Code disassemblieren"
 
 msgid "Convert Text with AI..."
-msgstr "Textumwandlung mit AI..."
+msgstr "Textumwandlung mit KI..."
 
 msgid "Make characters uppercase"
 msgstr "Großbuchstaben erzeugen"
